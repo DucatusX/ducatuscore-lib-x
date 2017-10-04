@@ -18,7 +18,7 @@ Bitcoin Cash is an other powerful  peer-to-peer platform for the next generation
 
 Bitcoin cash uses a different `sighash` for transaction signatures. The implementation in bitcore-cash has been tested agains the original bitcoin-cash test vectors (see sighash.json in `/test`). `bitcoin-cash` modifications in script evaluation has not been implemented yet.
 
-An usage example of uducatuscore-lib-cash can be seen at https://github.com/bitpay/copay-recovery
+An usage example of ubitcore-lib-cash can be seen at https://github.com/bitpay/copay-recovery
 
 
 ## Get Started
@@ -35,7 +35,7 @@ Adding Bitcore Cash to your app's `package.json`:
 
 ``` json
   "dependencies": {
-         "ducatuscore-lib-cash": "git@github.com:bitpay/ducatuscore-lib.git#cash",
+         "bitcore-lib-cash": "git@github.com:bitpay/ducatuscore-lib.git#cash",
           ...
           }
 ```
